@@ -28,7 +28,7 @@
     "expo-status-bar": "~2.2.3",
     "express": "^5.1.0",
     "react": "19.1.0",
-    "react-dom": "19.0.0",
+    "react-dom": "19.2.1",
     "react-native": "0.80.0",
     "react-native-web": "^0.20.0",
     "expo-dev-client": "~5.2.1"
