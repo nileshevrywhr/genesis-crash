@@ -29,9 +29,9 @@
     "express": "^5.1.0",
     "react": "19.1.0",
     "react-dom": "19.0.0",
-    "react-native": "0.80.0",
+    "react-native": "0.84.0",
     "react-native-web": "^0.20.0",
-    "expo-dev-client": "~5.2.1"
+    "expo-dev-client": "~6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
